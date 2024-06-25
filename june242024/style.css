@@ -1,0 +1,9 @@
+h1{
+    color: black;
+    /* text-emphasis: double-circle; */
+    /* text-decoration: line-through; */
+}
+h1:hover{
+    color: aqua;
+    cursor: pointer;
+}
